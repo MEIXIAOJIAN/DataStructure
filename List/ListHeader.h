@@ -1,4 +1,4 @@
 #include "stdio.h"
 #include "malloc.h"
 
-#define ListLenth (10)
+#define ListLenth (20)
